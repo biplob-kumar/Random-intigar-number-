@@ -8,7 +8,7 @@ if(number<=integar){
   console.log("Great this number has been match ");
 }
 else{
-    console.log(" Not match this number ");
+    console.log(" Not match  this number ");
 }
 
 //  Random intigar number 
